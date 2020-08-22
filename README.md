@@ -50,3 +50,7 @@ Sass、Scss 和 CSS 的关系
 
 - [语法](https://sass.bootcss.com/documentation/syntax)
 - [sass与scss的区别是什么？](https://www.html.cn/qa/css3/15686.html)
+
+--save 和 --save-dev 的区别
+
+- [What is the difference between --save and --save-dev?](https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev)
