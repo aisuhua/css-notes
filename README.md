@@ -44,6 +44,10 @@ Can I use
 
 - https://caniuse.com/#index
 
+npx
+
+- [npx 使用教程](https://www.ruanyifeng.com/blog/2019/02/npx.html)
+
 ## 疑问
 
 Sass、Scss 和 CSS 的关系
