@@ -2,6 +2,11 @@
 
 CSS 学习笔记
 
+## 学习资源
+
+- [Sass](https://sass.bootcss.com/) 中文站点
+- [webpack](https://webpack.docschina.org/concepts) 中文站点
+
 ## 知识点
 
 box-sizing
