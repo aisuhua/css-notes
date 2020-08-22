@@ -18,14 +18,16 @@ Grid
 
 ## 技巧
 
+垂直居中
+
+- [CSS: centering things](https://www.w3.org/Style/Examples/007/center.en.html)
+
+## 规范
+
 reset.css
 
 - [normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css)
 - [reset.css](https://marksheet.io/css/reset.css)
-
-垂直居中
-
-- [CSS: centering things](https://www.w3.org/Style/Examples/007/center.en.html)
 
 ## 工具
 
