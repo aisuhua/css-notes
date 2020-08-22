@@ -2,9 +2,17 @@
 
 CSS 学习笔记
 
-## box-sizing
+## 知识点
+
+### box-sizing
 
 - [学会使用box-sizing布局](https://www.jianshu.com/p/e2eb0d8c9de6)
+
+## flex
+
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
+### 技巧
 
 ## reset.css
 
