@@ -65,6 +65,7 @@ Sass、Scss 和 CSS 的关系
 HtmlWebpackPlugin 对 webpack dev server 行为的影响
 
 - [The affect of HtmlWebpackPlugin on webpack dev server](https://stackoverflow.com/questions/49983799/the-affect-of-htmlwebpackplugin-on-webpack-dev-server)
+- [Webpack中publicPath详解](https://juejin.im/post/6844903601060446221)
 
 ## 学习路线图
 
