@@ -64,3 +64,4 @@ Sass、Scss 和 CSS 的关系
 
 - [2020 年成为 Web 开发工程师之路线图](https://github.com/ccloli/developer-roadmap-zh-CN)
 - [2020年Web前端入门的自学路线](https://www.cnblogs.com/qianguyihao/p/8776837.html)
+- [2020最新版前端学习路线图](https://blog.csdn.net/cz_00001/article/details/103912705)
