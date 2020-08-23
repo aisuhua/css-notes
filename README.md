@@ -2,6 +2,8 @@
 
 CSS 学习笔记
 
+![alt 二八定律](28.jpg)
+
 ## 学习资源
 
 - [Sass](https://sass.bootcss.com/) 中文站点
