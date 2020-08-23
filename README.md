@@ -71,6 +71,10 @@ require 和 import 的区别
 
 - [require，import区别？](https://www.zhihu.com/question/56820346)
 
+在 React 的 JS 文件中插入图片的方式
+
+- [Adding Images, Fonts, and Files](https://create-react-app.dev/docs/adding-images-fonts-and-files/)
+
 ## 学习路线图
 
 - [2020 年成为 Web 开发工程师之路线图](https://github.com/ccloli/developer-roadmap-zh-CN)
