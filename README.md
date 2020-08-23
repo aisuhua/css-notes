@@ -62,6 +62,10 @@ Sass、Scss 和 CSS 的关系
 - [What is the difference between --save and --save-dev?](https://stackoverflow.com/questions/22891211/what-is-the-difference-between-save-and-save-dev)
 - [What is the --save option for npm install?](https://stackoverflow.com/questions/19578796/what-is-the-save-option-for-npm-install)
 
+HtmlWebpackPlugin 对 webpack dev server 行为的影响
+
+- [The affect of HtmlWebpackPlugin on webpack dev server](https://stackoverflow.com/questions/49983799/the-affect-of-htmlwebpackplugin-on-webpack-dev-server)
+
 ## 学习路线图
 
 - [2020 年成为 Web 开发工程师之路线图](https://github.com/ccloli/developer-roadmap-zh-CN)
