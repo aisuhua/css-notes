@@ -67,6 +67,10 @@ HtmlWebpackPlugin 对 webpack dev server 行为的影响
 - [The affect of HtmlWebpackPlugin on webpack dev server](https://stackoverflow.com/questions/49983799/the-affect-of-htmlwebpackplugin-on-webpack-dev-server)
 - [Webpack中publicPath详解](https://juejin.im/post/6844903601060446221)
 
+require 和 import 的区别
+
+- [require，import区别？](https://www.zhihu.com/question/56820346)
+
 ## 学习路线图
 
 - [2020 年成为 Web 开发工程师之路线图](https://github.com/ccloli/developer-roadmap-zh-CN)
