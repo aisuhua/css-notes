@@ -80,6 +80,11 @@ require 和 import 的区别
 
 - [Adding Images, Fonts, and Files](https://create-react-app.dev/docs/adding-images-fonts-and-files/)
 
+@import 的使用
+
+- [don’t use @import](http://www.stevesouders.com/blog/2009/04/09/dont-use-import/)
+- [Best way to include CSS? Why use @import?](https://stackoverflow.com/questions/10036977/best-way-to-include-css-why-use-import)
+
 ## 学习路线图
 
 - [2020 年成为 Web 开发工程师之路线图](https://github.com/ccloli/developer-roadmap-zh-CN)
